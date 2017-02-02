@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+*{font-family: 'Source Sans Pro', sans-serif;
+	box-sizing:border-box}
+a {color:#6cc091}
+a:hover {text-decoration:none}
+#wrapper {width:90%; margin:auto}
+#header {text-align:center;
+		margin-bottom:4em;
+		margin-top:6em}
+.fila {margin:0 0 -1px -2em;}
+.box25, .box50, .box33, .box100{float:left;padding:0 0 0 2em;clear:none;}
+.box50 {width:50%;
+			margin-left:0;}
+.box25 {width:25%;
+			margin-left:0;}
+hr {margin:3em 0;clear:both}
+.box33 {width:33.33333333333%;
+			margin-left:0;}
+#nav {background: #6cc091;
+			top: 0;height: 44px;line-height: 44px;color: #fff;
+			position:fixed;
+			cursor: default;
+			left: 0,0;
+			width: 100%;
+			z-index: 10001;}
+.inner {margin: 0 auto; position:relative; max-width: 75em;}
+.inner li { display: inline-block;padding: 0 0.75em;}
+.li a { text-decoration: none}
+h1,h2,h3,h4,h5,h6{color:#555;
+			font-weight:600;
+			line-height:1.5;
+			margin:0 0 1em 0;}
+.rosa {color:pink}
+p {margin:0 0 2em 0;
+	color:#9a9a9a;}
+body {margin:0}
+#nav a {color:white;text-decoration:none}
+#nav ul{width:30%;float:right;margin-top:0;position:relative}
+.fina {font-weight:200}
+.inner>a {margin-left:5%}
+
+
+
+
+
+
+
+
+
