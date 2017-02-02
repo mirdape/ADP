@@ -1,0 +1,33 @@
+i.mce-i-exclamation-circle,
+i.mce-i-times-circle,
+i.mce-i-info-circle,
+i.mce-i-info-green-circle {
+	display: inline-block;
+	font: normal 22px/1 FontAwesome;
+	text-rendering: auto;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+i.mce-i-exclamation-circle:before {
+	content: "\f06a";
+	color: #FFBD00;
+}
+i.mce-i-times-circle:before {
+	content: "\f057";
+	color: #E10A0A;
+}
+i.mce-i-info-circle:before,
+i.mce-i-info-green-circle:before {
+	content: "\f05a";
+	color: #1CB0FB;
+}
+i.mce-i-info-green-circle:before {
+	color: #40AD13;
+}
+i.mce-i-yes:before {
+	content: "\f147";
+	font: 400 20px/1 dashicons;
+	padding: 0px 2px 0px 0px;
+	vertical-align: top;
+	margin-left: -2px;
+}

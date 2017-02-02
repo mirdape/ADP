@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+*{font-family: 'Lobster', cursive;}
+#wrapper {width:90%; margin:auto}
+#header {/* background-color:pink */
+		height:90px}
+#logo {/* background-color:blue */
+		width:20%;
+		float:left}
+#nav ¨{/* {background-color:red */
+		width:80%;
+		float: right}
+#nav ul {list-style-type:none;
+		float:right}
+#nav li {float:left}
+#nav a {display:block;
+		/* background-color:yellow */
+		min-width:80px;
+		text-decoration:none;
+		padding:10px}
+#nav a:hover{text-decoration:underline}
+#slide {background-image:url(../img/slide1.jpg);
+		background-repeat:no-repeat;
+		background-size:cover;
+		background-attachment:fixe;
+		height:400px}
+.textBox {width:40%;
+		float:right;
+		background-color:rgba(255,255,255,0.6);
+		padding:20px;
+		margin-top:30px;
+		margin-right:30px}
+.icono {font-size:3.25em!important}
+.box {width:20%;
+		float:left;
+		text-align:center;
+		padding-left:5%}
+.first {width:25%!important;
+		padding-left:0px}
+.box p{text-align:center}
+#container {margin-top:30px}
