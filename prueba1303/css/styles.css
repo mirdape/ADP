@@ -4,7 +4,7 @@
 #footer {height:90px;width:100%;background-color:red;clear:both}
 .box1 {width:30%;height:300px;float:left}
 .box2 {width:70%;height:300px;float:left}
-h1 {color:white;background-color:blue;}
+h1 {color:white;background-color:blue;text-shadow: 2px 2px 0px rgba(1, 1, 1, 1);}
 .box1 h2{color:white;background-color:black}
 .box2 h2{color:red;background-color:white;padding:1.5em;}
 
