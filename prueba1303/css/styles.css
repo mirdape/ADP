@@ -1,0 +1,10 @@
+* {font-family: 'Caveat Brush', cursive;box-sizing:border-box}
+#container {width:800px;margin:auto}
+#header {height:60px;width:100%;background-color:yellow}
+#footer {height:90px;width:100%;background-color:red;clear:both}
+.box1 {width:30%;height:300px;float:left}
+.box2 {width:70%;height:300px;float:left}
+h1 {color:white;background-color:blue;}
+.box1 h2{color:white;background-color:black}
+.box2 h2{color:red;background-color:white;padding:1.5em;}
+
